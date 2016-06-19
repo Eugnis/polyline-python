@@ -1,0 +1,11 @@
+Polyline points
+X  Y
+1.0  2.0
+8.0  10.0
+14.0  24.0
+15.0  45.0
+10.0  20.0
+5.0  15.0
+Perimeter:  79.4516534459205
+Self-Intersections not found.
+Point (4, 5) not in polyline.
